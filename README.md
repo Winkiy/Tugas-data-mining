@@ -1,1 +1,1 @@
-# Tugas-data-mining
+# Tugas-data-mining Winky Eprilianto (221011401019)
